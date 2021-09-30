@@ -1,0 +1,24 @@
+﻿CD_TIP_ARRECAD,NM_TIP_ARRECAD,NM_SETOR,NM_GRUPO_SETOR,TIP_TRIBUTO
+119,ICMS Primário,Primário,Arrecadação ICMS,ICMS
+129,ICMS Secundário,Secundário,Arrecadação ICMS,ICMS
+131,Comércio Atacadista,Terciário,Arrecadação ICMS,ICMS
+132,Comércio Varejista,Terciário,Arrecadação ICMS,ICMS
+133,Serviços de Transporte,Terciário,Arrecadação ICMS,ICMS
+134,Serviços de Comunicação,Terciário,Arrecadação ICMS,ICMS
+135,Outros ICMS,Terciário,Arrecadação ICMS,ICMS
+139,ICMS Terciário,Sem Classificação,Arrecadação ICMS,ICMS
+211,Energia Elétrica Secundária,Secundário,Arrecadação ICMS Específica,ICMS
+212,Energia Elétrica Terciário,Terciário,Arrecadação ICMS Específica,ICMS
+219,Total Energia Elétrica,Sem Classificação,Arrecadação ICMS,ICMS
+221,Petróleo-Combustível Secundário,Secundário,Arrecadação ICMS Específica,ICMS
+222,Petróleo-Combustível Terciário,Terciário,Arrecadação ICMS Específica,ICMS
+229,Total Petróleo-Combustível-Lubrificantes,Sem Classificação,Arrecadação ICMS,ICMS
+239,Dívida Ativa,Sem Classificação,Arrecadação ICMS Específica,ICMS
+249,Outras Fontes de receitas,Sem Classificação,Arrecadação ICMS Específica,ICMS
+399,ICMS,Sem Classificação,Arrecadação ICMS,ICMS
+409,IPVA,Sem Classificação,Arrecadação de Outros Tributos,Outros Tributos
+419,ITCD,Sem Classificação,Arrecadação de Outros Tributos,Outros Tributos
+429,TAXAS,Sem Classificação,Arrecadação de Outros Tributos,Outros Tributos
+439,Outros Tributos,Sem Classificação,Arrecadação de Outros Tributos,Outros Tributos
+499,Total da Arrecadação de Outros Tributos,Sem Classificação,Arrecadação de Outros Tributos,Outros Tributos
+999,Total Geral da Receita de Tributária,Sem Classificação,Sem Classificação,Sem Classificação
